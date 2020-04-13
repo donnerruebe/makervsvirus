@@ -12,3 +12,5 @@ for(i=[0:anzahl-2])translate([0,0,3.8+h*i])intersection(){
     }
   }
 }
+
+translate([83.5,40,16-.5])cylinder(d=1.5,h=(anzahl-1)*h);
