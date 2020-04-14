@@ -8,7 +8,7 @@ for(i=[0:anzahl-2])translate([0,0,3.8+h*i])intersection(){
   import(file);
   union(){
   for(i=[3:3:177]){
-    rotate([0,0,i])translate([0,0,16])cube([180,.8,1]);
+    rotate([0,0,i])translate([0,0,16])cube([180,1.2,1]);
     }
   }
 }
