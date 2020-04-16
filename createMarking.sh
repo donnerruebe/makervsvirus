@@ -1,6 +1,6 @@
 for MATERIAL in 'PETG' 'PLA' 
 do
-echo "creting for MATERIAL"
+echo "Creating for MATERIAL"
 echo ${MATERIAL}
 echo ""
 STR="openscad -o dist/${MATERIAL}/bottom.stl -D 'marking=\"${MATERIAL}\"' bottomMarking.scad"
