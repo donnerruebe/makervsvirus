@@ -21,10 +21,8 @@ Die *.stl-Dateien sind für die Produktion vorbereitet. Für eine gute Mischung
 aus Qualität und Druckzeit empfehlen wir 0.3mm Schichtdicke und je nach Drucker
 entsprechende Haftverbesserer (Brim) zu wählen.
 
-Weitere Informationen findest du auf der Seite des [Makerworkshop]
-(https://www.makerworkshop.de/)
-unter [MakerVsVirus]
-(https://www.makerworkshop.de/makervsvirus/)
+Weitere Informationen findest du auf der Seite des [Makerworkshop](https://www.makerworkshop.de/)
+unter [MakerVsVirus](https://www.makerworkshop.de/makervsvirus/)
 
 ---
 
